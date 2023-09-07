@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suzannasofia
 - 🌱 I am a computer scientist
-- 👀 I’m interested in web development and artificial intelligence
+- 👀 I’m interested in software development and artificial intelligence
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: suzannasofia@gmail.com
 
